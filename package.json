@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "lib-flexible": "^0.3.2",
     "mint-ui": "^2.2.13",
+    "postcss-px2rem-exclude": "0.0.6",
     "qs": "^6.6.0",
     "vue": "^2.6.6",
     "vue-router": "^3.0.1"
