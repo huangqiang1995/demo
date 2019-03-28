@@ -1,7 +1,8 @@
 module.exports = {
   // 修改的配置
   // 将baseUrl: '/api',改为baseUrl: '/',
-  baseUrl: '/',
+  // baseUrl已被弃用
+  publicPath: '/',
   devServer: {
     proxy: {
       '/api': {

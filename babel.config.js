@@ -4,10 +4,10 @@ module.exports = {
   ],
   plugins: [
     [
-      "component",
+      'component',
       {
-        "libraryName": "mint-ui",
-        "style": true
+        'libraryName': 'mint-ui',
+        'style': true
       }
     ]
   ]
