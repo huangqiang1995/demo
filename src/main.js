@@ -14,6 +14,7 @@ import {
   TabItem
 } from 'mint-ui'
 
+import '@/assets/font/iconfont.css'
 Vue.component(Tabbar.name, Tabbar)
 Vue.component(TabItem.name, TabItem)
 Vue.component(Header.name, Header)

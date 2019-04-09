@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <mt-header fixed
-               title="lib-flexible"></mt-header>
+               title="黄强的个人空间"></mt-header>
     <transition :name="transitionName">
       <router-view></router-view>
     </transition>
